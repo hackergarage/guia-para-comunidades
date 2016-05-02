@@ -18,6 +18,15 @@ Algunas cosas que debes de saber al realizar tu evento de comunidad en HackerGar
   * Crear
 
 
+## ¿Cómo registrar un evento de comunidad?
+
+1. Planea tu evento. Te recomendamos hacerlo con un mes de anticipación.
+2. Verifica la disponibilidad del espacio en la fecha y hora deseados. Para ello [revisa el calendario] (http://hackergarage.mx/calendario/)
+3. Llena el [siguiente formulario] (http://eventos.hackergarage.mx) al menos 3 semanas antes de tu evento para poder atenderte adecuadamente, si se hace con menos anticipación no podemos garantizar que se agende adecuadamente.
+4. Espera 48 horas y vuelve a revisar el calendario. Si por alguna razón no aparece tu evento agendado te invitamos a que nos envíes un email a info@hackergarage.mx para resolverlo cuanto antes. 
+
+Si existe la disponi
+
 ## Responsabilidades y cosas a tener en cuenta los organizadores de eventos en HackerGarage
 
 * Los eventos de comunidad deben terminar como máximo a las 11pm (si crees que tu comunidad requiere de un caso excepcional ponte en contacto con el comité organizador)
