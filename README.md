@@ -4,13 +4,13 @@ Algunas cosas que debes de saber al realizar tu evento de comunidad en HackerGar
 ##Sobre HackerGarage
 
 * Es un espacio construido y mantenido por voluntarios.
-* Ofrece sus instalaciones de manera gratuita a personas interesadas en la tecnología, innovación y emprendimiento que no
+* Ofrece sus instalaciones para trabajar de manera gratuita a personas interesadas en la tecnología, innovación y emprendimiento
 * Ofrece sus instalaciones de manera gratuita y sujeta a [disponibilidad de calendario](http://hackergarage.mx/calendario/) a comunidades enfocadas en los temas antes mencionados que realicen eventos sin fines de lucro.
 
 
 ## Las reglas de la casa
 
-* No se permite el ingreso a HackerGarage con bebidas alcohólicas (salvo a los organizadores de eventos).
+* No se permite el ingreso a HackerGarage con bebidas alcohólicas (salvo lo que controlen los organizadores de eventos).
 * Se debe mantener en todo momento una actitúd de respeto entre los asistentes. HackerGarage no tolerará actos que inciten a la violencia o discriminación de cualquier tipo.
 * Fomentar la cultura hacker es importante
   * Aprender
